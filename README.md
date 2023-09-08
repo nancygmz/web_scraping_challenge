@@ -33,4 +33,9 @@ How many Sols (Martian Days) worth of data exist in the scraped dataset?
 What are the coldest and warmest months on Mars (at the location of Curiosity)? 
 Plotting the average low temperature on mars we can determine on average the coldest month is the 3rd month. On average the warmest month is the 8th month.
 
-![avg_low-tempertuare on Mars](g)
+![avg_low-tempertuare on Mars](https://github.com/nancygmz/web_scraping_challenge/blob/main/graphs/avg_temp.png)
+
+Which month, on average, has the lowest atmospheric pressure? The highest?
+Plotting the average atmospheric pressure by month, we can determine that atmospheric pressure on average is lowest in the sixth month and highest in the ninth.
+
+![avg_pressure on Mars](https://github.com/nancygmz/web_scraping_challenge/blob/main/graphs/avg_pressure.png)
